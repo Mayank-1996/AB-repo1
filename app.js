@@ -5,3 +5,4 @@ if (a > b) console.log("Hiii");
 else console.log("Hello");
 console.log("end");
 console.log(a + b);
+console.log(a * b);
