@@ -1,4 +1,4 @@
-console.log("start");
+console.log("start app");
 const a = 10;
 const b = 11;
 if (a > b) console.log("Hiii");
